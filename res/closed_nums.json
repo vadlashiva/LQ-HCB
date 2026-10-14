@@ -1,0 +1,11 @@
+{
+ "silentEeff": "2.8",
+ "resRadius": "28",
+ "resMax": "0.18",
+ "resMaxPct": "3.7",
+ "nstarOne": "6",
+ "nstarThree": "15",
+ "kappaStar": "$4.16\\times10^{4}$",
+ "silentE": "0.79",
+ "pvDay": "2.31"
+}
